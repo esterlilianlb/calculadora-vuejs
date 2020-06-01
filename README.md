@@ -7,7 +7,7 @@ Esta solução foi desenvolvida especialmente para o professor Bentinho, que pre
 
 Antes de conseguir usar a aplicação plenamente, você deve primeiro abrir seu terminal, e entrar na pasta correspondente:
 
-        cd espressolabs-teste/exercicio7/calculadora/
+        cd calculadora-vuejs/
 
 Em seguida, instale as dependências do projeto, utilizando o seguinte comando:
 
