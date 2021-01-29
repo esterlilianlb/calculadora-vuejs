@@ -15,7 +15,7 @@ Em seguida, instale as dependências do projeto, utilizando o seguinte comando:
 
 Com as dependências devidamente instaladas, execute o comando a seguir para servir a página localmente:
 
-        npm run serve
+        npm start
 
 Agora abra seu navegador e entre em http://localhost:8080.
 
